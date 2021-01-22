@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "1",
+        "title" : "Cafe Americano",
+        "price" : 5,
+        "image" : "cafe-americano"
+    },
+    {
+        "id" : "2",
+        "title" : "Cafe Expreso",
+        "price" : 7,
+        "image" : "expreso"
+    },
+    {
+        "id" : "3",
+        "title" : "Sandwich de jamon y queso",
+        "price" : 10,
+        "image" : "club-sandwich"
+    },
+    {
+        "id" : "4",
+        "title" : "Jugo de fresa",
+        "price" : 8,
+        "image" : "fresa"
+    },
+    {
+        "id" : "6",
+        "title" : "Hamburguesa",
+        "price" : 15,
+        "image" : "hamburguesa"
+    }
+]

@@ -1,0 +1,26 @@
+.cart__body {
+    flex: 0.3;
+    padding: 20px;
+    text-align: left;
+    color: #D0DADA;
+}
+
+.button__end {
+    background: #f0c14b;
+    font-size: 16px;
+    width: 100%;
+    border-radius: 4px;
+    border: 2px solid #a88734;
+    cursor: pointer;
+    padding: 4px 8px;
+    margin-top: 16px;
+    font-weight: bold;
+}
+
+.cart__body button:hover {
+    background: #ddb347;
+}
+
+.cart__body button:focus {
+    outline: none;
+}

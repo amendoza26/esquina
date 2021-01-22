@@ -1,0 +1,17 @@
+.body {
+    display: flex;
+}
+
+.menuItems {
+    flex: 0.7;
+    padding: 20px;
+    margin-right: 18px;
+    color: #D0DADA;
+}
+
+.menuItems__item { 
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+

@@ -1,0 +1,26 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: 0.3;
+}
+
+.item__button {
+    margin-top: 20px;
+    height: 200px;
+    width: 250px;
+    margin-bottom: 20px;
+    padding: 0;
+    border: none;
+}
+
+.item__button img {
+    height: 100%;
+    width: 100%;
+}
+
+.item__name {
+    text-align: center;
+    margin-top: 0;
+    color: #D0DADA;
+}

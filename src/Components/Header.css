@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    background-color:#3d3d3d;
+    color: #fff;
+    height: 80px;
+    justify-content: center;
+    align-items: center
+}
+
+.header__title {
+    flex: 0.7;
+    text-align: center;
+}
